@@ -1,4 +1,4 @@
-# Multi-class Classification: Obesity Risk Prediction
+# Multi-class Classification
 
 This repository contains a comprehensive analysis and implementation of Multi-class Classification strategies using Logistic Regression. The project focuses on predicting obesity levels based on eating habits and physical condition, utilizing both a Jupyter Notebook for detailed analysis and a generalized Streamlit web application for interactive modeling.
 
